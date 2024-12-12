@@ -1,6 +1,16 @@
 {
-	"name": "ui",
-	"version": "0.0.1",
+	"name": "@anafro/ui",
+	"version": "1.0.0",
+	"description": "The Svelte component library for Anafro tools",
+	"keywords": [
+		"svelte",
+		"svelte-components",
+		"svelte-component-library",
+		"ui",
+		"ui-components",
+		"anafro",
+		"anafro-tools"
+	],
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
