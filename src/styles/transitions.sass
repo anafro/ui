@@ -1,0 +1,6 @@
+@use "easings"
+
+$fast-transition-duration: 0.075s
+
+@mixin fast-transition($easing: easings.$ease-in-out)
+    transition: all $fast-transition-duration $easing
