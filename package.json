@@ -11,6 +11,11 @@
 		"anafro",
 		"anafro-tools"
 	],
+	"author": {
+		"name": "Anatoly Frolov",
+		"email": "anatolyfroloff@gmail.com",
+		"url": "https://anafro.ru"
+	},
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
